@@ -9,7 +9,7 @@ manage files, create, read, update, delete
                 
 ----
 
-[![1.png](https://i.postimg.cc/vTtCRnVg/1.png)](https://postimg.cc/GT9XGHzd)
+[2.png](https://postimg.cc/w1Cyqf36)
 
 # Take a look at my website
  :earth_americas: [Diego Rivas | Software engineer & Developer](https://diegorivasdev.github.io)
